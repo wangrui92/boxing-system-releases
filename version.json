@@ -1,8 +1,13 @@
 {
-  "version": "1.9.1",
+  "version": "2.0.0",
   "downloadUrl": "https://github.com/wangrui92/boxing-system-releases/releases/download/Ryen/update.zip",
-  "changelog": "v1.1.0\n- 新增自动更新功能v3\n- 新增授权管理v3",
+  "changelog": "v2.0.0\n- 新增返修管理\n- 优化变量选择",
   "history": [
+    {
+      "version": "2.0.0",
+      "date": "2026-03-19",
+      "notes": "- 新增返修管理\n"
+    },
     {
       "version": "1.9.1",
       "date": "2026-03-19",
