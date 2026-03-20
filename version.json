@@ -1,20 +1,17 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "downloadUrl": "https://github.com/wangrui92/boxing-system-releases/releases/download/Ryen/update.zip",
   "changelog": "v2.1.0\n- 新增屏蔽接口对接\n- 支持自定义规则装箱",
   "history": [
-     {
+{
       "version": "2.1.0",
       "date": "2026-03-20",
-      "notes": "- 新增 {
-      "version": "2.0.0",
-      "date": "2026-03-19",
-      "notes": "- 新增自定义装箱\n"
-    }, {
+      "notes": "- 新增自定义规则装箱\n"
+    },
+     {
       "version": "2.0.0",
       "date": "2026-03-19",
       "notes": "- 新增返修管理\n"
-    },\n"
     },
     {
       "version": "2.0.0",
